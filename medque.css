@@ -1,0 +1,488 @@
+/*tablets and under*/
+
+
+@media (max-width: 768px) {
+  div.background{
+    width: 450px;
+   }
+    .about-me-space {
+     left:-320px;
+     top: 90px;
+      
+      
+      
+    }
+    .my-img{
+      left: -20px;
+    }
+    .column{
+      width: 250px;
+      top: -450px;
+     
+       /* display: block;  */
+     } 
+     .div-box{
+      width: 250px;
+      /* left: -450px; */
+     }
+    .section-cl{
+    background-color: red;
+    
+    }
+    .about-me{
+      
+      top: 70px;
+      
+      
+    }
+    
+    .my-section{
+     margin-top: 790px;
+     left: -0px;
+    }
+    
+    .fly{
+      left: 220px;
+    }
+  
+    .project-section{
+      width: 100%;
+      display: flex;  
+    
+    }
+  
+    .section-projects{
+      margin-top: 30px;
+      left: 0px;
+    }
+  
+    .column-2{
+      margin-top: 30px;
+      left: -20px;
+       }
+     .fcard{
+      height: 225px;
+     }
+       #proll {
+       position: relative;
+       left: -50px;
+        /* padding: 10px; */
+        height: 225px;
+         /* position: absolute; */ 
+       }
+       #zoom{
+        left: -15px;
+        
+       }
+       .balldiv{
+        left: 40px;
+        margin-top: -200px;
+        
+      }
+      
+       
+       .heart{
+      margin-left:275px;
+       }
+       .love{
+        margin-left:295px;
+         }
+       footer{
+         background-color: teal;
+       }
+   } 
+  
+  /* mobile */
+  
+  @media screen and (min-width: 348px) and (max-width: 529px)  {
+
+.section-cli{
+  width: 0%;
+  height: 0;
+    
+   
+  }
+    .navbar{
+         height: 90px;  
+    }
+    .navbar .flex {
+        flex-direction: column;
+    }
+    .navbar ul{
+         padding: 10px; 
+         background-color: rgba(0, 0, 0, 0.1);
+        
+    }
+   
+    .welcome-div{
+      margin-top: -5px;
+    
+    }
+    
+    .about-me{
+      position: relative;
+      top: 70px;
+      left: -150px;
+      
+    }
+    
+    .hhh2{
+      width: 200px;
+        font-size: 13px;
+        text-align: center;
+        position: relative;
+       left: 70px;
+       top: -75px;
+       font-weight: bolder;
+      }
+      .hhh3{
+        width: 200px;
+        font-size: 13px;
+        text-align: center;
+        position: relative;
+       left: 70px;
+       top: -80px;
+       font-weight: bolder;
+      }
+    .my-img{
+      margin-left: -320px;
+      margin-top: 90px;
+    }
+
+
+     #pro{
+      background-color: #222;  
+      height: 795px;
+      
+      /* margin-bottom: 10px; */
+     
+      
+      
+    }
+    
+    
+    div.background {
+            width: 350px;
+        margin-left: 0px;
+        margin-top: -80px;
+      }
+   .flexx {
+        top: 635px;
+        left: -500px;
+        width: 20%;
+        height: 80%;
+    }
+
+    
+    
+    .column {
+     border: none;
+     width: 200px;
+     
+    }
+
+    .div-box{
+      top: 0px;
+     
+      width: 200px;
+     } 
+
+     .my-section{
+      margin-top: 1360px;
+      
+     }
+     .project-section{
+      height: 795px;
+     }
+      .img-div {
+          width: 300px;
+          height: 250px;
+          position: relative;
+       left: 170px;
+       
+      }
+      .img-div img{
+        width: 150px;
+        
+    }
+      .sse{
+       left: -160px;
+        
+       
+      }
+      #divy-me{
+        position: relative;
+        left: -165px;
+        top: 260px
+       ;
+      
+      }
+      #divy-me2{
+        position: relative;
+        left: -500px;
+        top: 260px
+       ;
+       
+      }
+      #divy-me3{
+        position: relative;
+        left: -590px;
+        top: 530px
+       ;
+      }
+      
+      .fly{
+        left: 30px;
+      }
+      .desc2{
+        margin-top: -15px;
+      }
+      /* section projects */
+      .section-projects{
+        margin-top: 30px;
+        height: 760px;
+       
+      }
+
+      
+      #zoom {
+        margin-left: 0px;
+        margin-top: 10px;
+        left: 30px;
+        
+      }
+      #proll {
+        margin-left: 100px;
+        margin-top: 290px;
+         height: 200px;
+         width: 250px;
+        }
+        .column-2{
+          margin-top: 260px;
+          width: 250px;
+          left: -50px;
+           }
+          
+      .heart {
+       top: -80px;
+        margin-left: 160px 
+        
+      }
+     
+.ccc{
+  position: relative;
+  top: -470px;
+  
+}
+#socials{
+  position: relative;
+  top: 10px;
+}
+      footer{
+        background-color: #000;
+       height: 150px;
+       padding: 0;
+    
+       
+      
+    }
+   
+    .balldiv{
+     margin-top: -180px;
+      left: -380px;
+      width: 100px;
+  height: 100px;    
+        
+    }
+    #ooq{
+      position: relative;
+      top: -10px;
+     
+    }
+    #red {
+      
+      left: 20%;
+      
+    }
+   
+    #blue {
+     
+      left: 35%;
+     
+    }
+    
+    .balls {
+      border-radius: 50%;
+      font-size: 15px;
+      width: 90px;
+      height: 40px;
+      animation-iteration-count: infinite;
+    }
+    @keyframes ballsdiv {
+      80%   { top:100px; top:300px;}
+      25%  {top:100px; left: 300px;}
+      50%  {top:300px; right:300px;}
+      75%  {top:400px; right:300px;}
+      100% {top:300px;}
+    }
+    
+      
+      
+      
+      
+   }
+  
+   @media screen and (min-width: 1025px) and (max-width: 1280px)  {
+    .my-section{
+      
+      top: -670px;
+    }
+    
+  .section-cli{
+    position: relative;
+    left: 150px;
+    top: -60px;
+   width: 30%;
+   height: 90%;
+   
+  }
+  .my-img{
+    left: 10px;
+    top: -40px;
+  }
+  .about-me{
+    margin-left: 10px;
+    margin-top: -50px;
+  }
+  div.background {
+    width: 100%;
+    margin-left: -10px;
+  }
+    .flexx {
+      flex-direction: column;
+      left: 290px;
+      width: 20%;
+  height: 80%;
+  top: -640px;
+  margin-left: 530px;
+  }
+  .column{
+    width: 100%;
+    margin-left:0px;
+  }
+  .div-box{
+    top: 20px;
+    width: 100%;
+  left: -260px;
+  margin-top: -30px;
+  margin-left: 530px;
+  
+    
+  }
+  .fly{
+    left: 500px;
+  }
+  
+
+    .img-div {
+        width: 150px;
+        margin-left: 220px; 
+      
+    }
+
+    .sse{
+      margin-left: 10px;
+      
+     
+    }
+    .secimg-div{
+      top: 0px;
+      left: -210px;
+    }
+    .secimg-div2{
+      top: -280px;
+      left: 500px;
+     
+      
+      
+    }
+    .secimg-div2 .desc2{
+      padding-bottom: 0px;
+      margin-top: -5px;
+    }
+    .secimg-div3{
+      top:-280px;
+      left: 300px;
+    }
+  
+    
+    .project-section{
+      background-color: #222;  
+      height: 300px;
+      
+      
+     
+      
+      
+    }
+    
+    .section-projects{
+      height: 350px;
+      position: relative;
+      top: -670px;
+    }
+    .pclass p{
+      color: red;
+      margin-left: 120px;
+    }
+    .zoomimg {
+      margin-top: 30px;
+      margin-left: -700px;
+      
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 #222;
+    }
+  
+    div.polaroid {
+      
+     top: -280px;
+     left: 330px;
+      
+    }
+  
+    .column-2{
+      top: -530px;
+     left: -550px;
+     
+    }
+    footer{
+      top: -700px;
+      
+    }
+    .balldiv{
+      
+      margin-left: 300px;
+    }
+    .heart {
+      margin-top: 170px;
+      margin-left: 635px ;
+      
+      }
+  }
+  
+  
+  @media screen and (min-width: 11280px) and (max-width: 1580px)  {
+    .my-section{
+      
+      top: -750px;
+    }
+    .column-2{
+      left: -640px;
+    }
+    .heart{
+      margin-left: 470px;
+    }
+    footer{
+      top: 750px;
+      
+    }
+  }
